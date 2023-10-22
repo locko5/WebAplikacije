@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of page</title>
+</head>
+<body>
+<h1>Naslov</h1>
+<h2>Podnaslov</h2>
+<p>Odlomak1</p>
+<p>Odlomak2</p>
+<img src="C:\Users\locko\Pictures/picture.jpg" alt="slika" title="slika">
+<img src="https://en.wikipedia.org/wiki/London#/media/File:London_Skyline_(125508655).jpeg" alt="slika" title="slika">
+</body>
+</html>
